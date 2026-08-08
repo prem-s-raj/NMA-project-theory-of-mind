@@ -4,9 +4,11 @@ A project on theory of mind (Social cognition) was implemented as part of Neurom
 Following two hypos. are investigated:
 
 *Q1. What brain areas are significantly active during the display of the social cognition videos?*
+
  = H01: There is no significant difference in activation levels between social and control conditions in TOM regions 
 
 *Q2. To what extent is the information used in the process of social cognition present in the previously defined network?*
+
  = H02: Information is not reliably decoded or present in the recorded brain activity, therefore resulting in the classifier performance not being different from chance 
 
 Reference:
